@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @alfiqore
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Python , C++
+- 💞️ I’m looking to collaborate on []
+- 📫 How to reach me @alfi_wirdiyan
+- 😄 Pronouns: babi pronouns pronouns
+- ⚡ Fun fact: saya tidur cepet
+
+<!---
+alfiqore/alfiqore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
