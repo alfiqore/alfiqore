@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python , C++
 - 💞️ I’m looking to collaborate on []
-- 📫 How to reach me @alfi_wirdiyan
+- 📫 How to reach me wirdiyanalfi@gmail.com
 - 😄 Pronouns: babi pronouns pronouns
 - ⚡ Fun fact: saya tidur cepet
 
