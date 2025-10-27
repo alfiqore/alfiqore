@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Python , C++
 - 💞️ I’m looking to collaborate on []
 - 📫 How to reach me wirdiyanalfi@gmail.com
-- 😄 Pronouns: babi pronouns pronouns
-- ⚡ Fun fact: saya tidur cepet
+
 
 <!---
 alfiqore/alfiqore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
