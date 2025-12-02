@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @alfiqore
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python , C++
-- 💞️ I’m looking to collaborate on []
-- 📫 How to reach me wirdiyanalfi@gmail.com
+-  Hi, I’m @alfiqore
+-  I’m interested in Coding
+-  I’m currently learning Python , C++
+-  How to reach me wirdiyanalfi@gmail.com
 
 
 <!---
