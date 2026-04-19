@@ -1,4 +1,4 @@
--  Hi, I’m @alfiqore
+-  I’m @alfiqore
 -  I’m interested in Coding
 -  I’m currently learning Python , C++
 -  How to reach me wirdiyanalfi@gmail.com
